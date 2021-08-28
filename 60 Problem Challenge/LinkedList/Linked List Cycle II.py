@@ -20,3 +20,16 @@ def detectCycle(self, head: ListNode) -> ListNode:
       Runtime: 44 ms, faster than 93.85% of Python3 online submissions for Linked List Cycle II.
       Memory Usage: 17.4 MB, less than 22.71% of Python3 online submissions for Linked List Cycle II.
       """
+def detectCycleTwo(self, head: ListNode) -> ListNode:
+        try:
+            if head==None:
+                return None
+            slowPointer, fastPointer = head, head
+            while(slowPointer != fastPointer):
+                slowPointer, fastPointer = slowPointer.next, fastPointer.next.next
+        except:
+            return None
+        startPointer = head
+        while(slowPointer is not startPointer):
+            slowPointer, startPointer = slowPointer.next, startPointer.next
+        return startPointer
