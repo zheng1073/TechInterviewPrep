@@ -2,9 +2,9 @@
 
 ### LinkedList
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
-- [ ] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
-- [ ] [Remove Duplications from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+- [x] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [x] [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [x] [Remove Duplications from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [ ] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 ### Stack
