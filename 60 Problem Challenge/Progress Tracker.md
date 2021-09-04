@@ -12,8 +12,8 @@
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ### Heap, PriorityQueue
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+- [x] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
 
 ### HashMap
