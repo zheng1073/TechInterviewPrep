@@ -20,8 +20,8 @@
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [ ] [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
-- [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+- [x] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
 ### Graph, BFS, DFS
